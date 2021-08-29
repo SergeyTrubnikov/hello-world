@@ -1,5 +1,3 @@
 #!/bin/bash
 
-NAME="Sergey"
-
-echo "Hello ${NAME}"
+echo "Hello ${NAME} ${LAST_NAME}"
