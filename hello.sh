@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo "Hello Sergey!"
-echo "$(date)"
-echo "$(pwd)"
+NAME="Sergey"
+
+echo "Hello ${NAME}"
